@@ -46,7 +46,7 @@
                                 </svg> Email &amp; On-line Support
             </li>
           </ul>
-          <a href="#" class="inline-block p-4 rounded text-sm text-white no-underline uppercase bg-teal">Get started today</a>
+          <a href="/" class="inline-block p-4 rounded text-sm text-white no-underline uppercase bg-teal">Get started today</a>
         </div>
       </div>
 
@@ -96,7 +96,7 @@
               <span>Enterprise Customer Success Programs</span>
             </li>
           </ul>
-          <a href="#" class="inline-block p-4 rounded text-sm text-white no-underline uppercase bg-teal">Get started today</a>
+          <a href="/" class="inline-block p-4 rounded text-sm text-white no-underline uppercase bg-teal">Get started today</a>
         </div>
       </div>
     </div>
